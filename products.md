@@ -11,5 +11,5 @@ menu:
   footer:
     identifier: _products
     url: "/products/"
-    weight: 2
+    weight: 1
 ---
