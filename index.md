@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Strategic Data and Telecom
 partners:
 - "/uploads/2018/05/28/y3K3txzt.jpg"
 - "/uploads/2018/05/28/Microsoft-SQL-Server.png"
@@ -16,11 +16,9 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+sub_heading: Call Accounting Software and Services
+textline: PC-based fully featured software system and services for tracking call records
+  from all major legacy PBXs and IP-based systems.
 hero_button:
   text: Learn more
   href: "/about"
