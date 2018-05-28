@@ -8,9 +8,8 @@ partners:
 - "/uploads/2018/05/28/Microsoft-SQL-Server.png"
 - "/uploads/2018/05/28/sap_crystal_reports_2013.jpg"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: Recursive Pattern Recognition Analysis of All Columns
+  heading: 'Cisco Call Manager CDR Analysis '
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
