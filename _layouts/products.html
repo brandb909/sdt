@@ -17,7 +17,7 @@ layout: default
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
 							<div class="card-header">
-							{% if product.banner_image and project.banner_image != "" %}
+							{% if product.banner_image and product.banner_image != "" %}
 							<img src="{{ product.banner_image | absolute_url }}" alt="{{ product.title }}">
 							{% else %}
 								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ product.title }}">
