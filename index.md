@@ -11,9 +11,8 @@ services:
 - description: Recursive Pattern Recognition Analysis of All Columns
   heading: 'Cisco Call Manager CDR Analysis '
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: Editions of Apogee Call Accounting Software
+  heading: Desktop, Enterprise, Hybrid and Cloud Call Accounting Software
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Call Accounting Software and Services
 textline: PC-based fully featured software system and services for tracking call records
