@@ -1,11 +1,13 @@
 ---
 layout: post
 title: A typical page
-date: 2018-05-28 14:41:45 -0700
+date: 2018-05-28 21:41:45 +0000
 description: This is a default page
-publish_date: 2018-05-28 00:00:00 -0700
+publish_date: 2018-05-28 07:00:00 +0000
 menu:
   navigation:
+    identifier: _a_typical_page
+    url: "/a-typical-page/"
     weight: 7
     title: A page
 ---
