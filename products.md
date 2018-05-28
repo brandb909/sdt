@@ -1,15 +1,15 @@
 ---
-title: Projects
-layout: projects
-description: Projects by Belkirk College
+title: Products
+layout: products
+description: Products by SDT, Inc.
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
   footer:
-    identifier: _projects
-    url: "/projects/"
+    identifier: _products
+    url: "/products/"
     weight: 2
   navigation:
-    identifier: _projects
-    url: "/projects/"
+    identifier: _products
+    url: "/products/"
     weight: 3
 ---
