@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Strategic Data and Telecom, Inc.
+short_title: SDT, Inc.
+description: Apogee Call Accounting Software
 baseurl:
 permalink: "/:path/"
 defaults:
@@ -22,6 +22,9 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+  products:
+    output: true
+    permalink: "/products/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
