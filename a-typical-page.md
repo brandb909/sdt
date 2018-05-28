@@ -6,6 +6,6 @@ description: This is a default page
 publish_date: 2018-05-28 00:00:00 -0700
 menu:
   navigation:
-    weight: 1
+    weight: 7
     title: A page
 ---
