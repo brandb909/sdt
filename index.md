@@ -4,10 +4,9 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
 partners:
+- "/uploads/2018/05/28/y3K3txzt.jpg"
 - "/uploads/2018/05/28/Microsoft-SQL-Server.png"
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2018/05/28/sap_crystal_reports_2013.jpg"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
