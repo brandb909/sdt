@@ -21,4 +21,4 @@ slug: ''
 * Answer Service Billback
 * Robust, Reliable, Scalable, Multi-Site Platform
 
-  ![](/uploads/2018/05/28/Microsoft-SQL-Server.png)
+![](/uploads/2018/05/28/Microsoft-SQL-Server.png)
