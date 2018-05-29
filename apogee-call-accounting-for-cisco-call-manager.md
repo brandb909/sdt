@@ -15,6 +15,6 @@ partners: []
 show_staff: false
 menu:
   navigation:
-    weight: 1
+    weight: 2
     title: Apogee
 ---
