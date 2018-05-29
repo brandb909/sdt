@@ -1,7 +1,7 @@
 ---
 title: Apogee Call Accounting for Cisco Call Manager
 layout: landing-page
-date: 2018-05-29 03:19:09 -0700
+date: 2018-05-29 10:19:09 +0000
 heading: Software Solution for CUCM Reporting
 sub_heading: CDR Analytics  and Data Services Integration
 banner_image: "/uploads/2018/05/29/Super_soaker_50.jpg"
@@ -20,6 +20,8 @@ partners: []
 show_staff: false
 menu:
   navigation:
+    identifier: _apogee_call_accounting_for_cisco_call_manager
+    url: "/apogee-call-accounting-for-cisco-call-manager/"
     weight: 2
     title: Apogee
 ---
