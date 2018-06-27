@@ -11,13 +11,15 @@ publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
   footer:
+    name: About
     identifier: _about
     url: "/about/"
-    weight: 4
+    weight: 3
   navigation:
+    name: About
     identifier: _about
     url: "/about/"
-    weight: 2
+    weight: 3
 ---
 
 The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.

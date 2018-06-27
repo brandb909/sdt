@@ -6,8 +6,8 @@ description: This is a default page
 publish_date: 2018-05-28 07:00:00 +0000
 menu:
   navigation:
+    name: A page
     identifier: _a_typical_page
     url: "/a-typical-page/"
     weight: 7
-    title: A page
 ---
