@@ -11,7 +11,7 @@ sub_heading: Western States Equipment Co
 banner_image: "/uploads/2018/06/27/SDT-CUCM-ETL-client-western-states-electric.jpg"
 slug: ''
 ---
-* **Client:**Caterpillar
+**Client: -**Caterpillar
 
 **The Problem –**  
 In keeping with their goal of providing unparalleled Customer Service, the WSECO IT department had expended considerable effort to provide management reports to track the performance of their receptionist and service departments by diligently monitoring the call flow through a Cisco UCM system. They were utilizing SQL Analysis Services augmented by third party BI reporting tools to develop OLAP cubes and augmenting the Cisco CDR with other corporate-wide databases. However, as the Customer Communications Supervisor scrutinized the resulting reports, something was amiss. Periodic manual tallies and customer/employee feedback about traffic workloads did not quite reconcile with the reports. Furthermore continual changes in the CUCM configuration and corporate telecommunications infrastructure started to require an FTE in a department with finite resources and expanding objectives.
