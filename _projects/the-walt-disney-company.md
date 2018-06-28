@@ -7,7 +7,6 @@ date: 2018-06-28 11:06:47 -0700
 sub_heading: 'Unifying Communications across the Disney Properties '
 banner_image: "/uploads/2018/06/28/SDT-Unification-of-communications-for-The-Walt-Disney-Company.jpg"
 slug: ''
-published: false
 ---
 Client: The Walt Disney Company
 
