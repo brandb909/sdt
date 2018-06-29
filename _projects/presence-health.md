@@ -11,7 +11,6 @@ date: 2018-06-29 14:09:09 -0700
 sub_heading: 'Big Data SMDR '
 banner_image: ''
 slug: ''
-published: false
 ---
 **Client** - Presence Health
 
