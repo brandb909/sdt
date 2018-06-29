@@ -8,7 +8,6 @@ date: 2018-06-28 11:50:45 -0700
 sub_heading: 'HIPAA complaint call reporting '
 banner_image: "/uploads/2018/06/29/SDT-multi-site-hippa-compliant-call-tracking.jpg"
 slug: ''
-published: false
 ---
 Client - Ascension Health Care
 
