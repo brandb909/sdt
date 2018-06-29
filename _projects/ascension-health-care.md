@@ -1,9 +1,12 @@
 ---
 title: Ascension Health Care
-tags: []
+tags:
+- hippa-complaint-call-tracking
+- enterprise-cucm
+- nortel-avaya-siemns-pbx-integration-with-cisco
 date: 2018-06-28 11:50:45 -0700
 sub_heading: 'HIPAA complaint call reporting '
-banner_image: ''
+banner_image: "/uploads/2018/06/29/SDT-multi-site-hippa-compliant-call-tracking.jpg"
 slug: ''
 published: false
 ---
@@ -19,4 +22,4 @@ The Apogee Enterprise platform with its robust multi-site configurations was tes
 
 The Results
 
-Additional locations are continually being added to the expanding system.  The Email-Merge cabability has reduced the maintenance of template creation and modifications to less than an hour, compared to dozens of hours with competitive systems.  The Traffic Analysis results have proven to be extremely beneficial in the analysis or ROI for configuration changes.  Reporting modules with Doctor’s Answering Service features have facilitated tracking and bill-back for services.
+Additional locations are continually being added to the expanding system.  The Email-Merge capability has reduced the maintenance of template creation and modifications to less than an hour, compared to dozens of hours with competitive systems.  The Traffic Analysis results have proven to be extremely beneficial in the analysis or ROI for configuration changes.  Reporting modules with Doctor’s Answering Service features have facilitated tracking and bill-back for services.
