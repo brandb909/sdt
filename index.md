@@ -19,11 +19,12 @@ textline: PC-based fully featured software system and services for tracking call
   from all major legacy PBXs and IP-based systems.
 hero_button:
   text: Learn more
-  href: "/about"
+  href: "/apogee"
 show_news: false
 show_staff: false
 menu:
   navigation:
+    name: Home
     identifier: _index
     url: "/"
     weight: 1
