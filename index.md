@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/06/30/Cisco-Unified-Communications-Manager-data-record-reporting.jpg"
 layout: landing-page
 heading: Strategic Data and Telecom
 partners:
