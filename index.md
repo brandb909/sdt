@@ -16,7 +16,7 @@ services:
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Call Accounting Software and Services
 textline: PC-based fully featured software system and services for tracking call records
-  from all major legacy PBXs and IP-based systems. CUCM call billing software.
+  from all major legacy PBXs and IP-based systems. CUCM tracking and billing software.
 hero_button:
   text: Learn more
   href: "/apogee-call-accounting-for-cisco-call-manager/"
