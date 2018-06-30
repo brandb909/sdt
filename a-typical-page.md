@@ -10,4 +10,5 @@ menu:
     url: "/a-typical-page/"
     weight: 7
     title: A page
+published: false
 ---
