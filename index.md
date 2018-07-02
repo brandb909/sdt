@@ -10,7 +10,7 @@ partners:
 sub_heading: Call Accounting Software and Services
 textline: 'Telecom Expertise and Call Data Reporting '
 hero_button:
-  text: Windows Solution for CUCM reporting and billing
+  text: CUCM reporting for Windows
   href: "/apogee-call-accounting-for-cisco-call-manager/"
 show_news: false
 show_staff: false
