@@ -28,11 +28,11 @@ fields:
   label: Hero Button
   fields:
 - type: text
-    name: text
-    label: Text
+  name: text
+  label: Text
 - type: text
-    name: href
-    label: Link
+  name: href
+  label: Link
 - type: textarea
   name: textline
   label: Description
