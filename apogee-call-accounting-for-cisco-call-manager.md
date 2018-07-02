@@ -4,7 +4,7 @@ layout: landing-page
 date: 2018-05-29 10:19:09 +0000
 heading: Software Solution for CUCM Reporting
 sub_heading: CDR Analytics  and Data Services Integration
-banner_image: "/uploads/2018/05/29/Super_soaker_50.jpg"
+banner_image: "/uploads/2018/06/30/Cisco-Unified-Communications-Manager-data-record-reporting-1.jpg"
 hero_button:
   text: ''
   href: ''
