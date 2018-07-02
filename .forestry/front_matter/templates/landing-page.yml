@@ -26,12 +26,13 @@ fields:
 - type: field_group
   name: hero_button
   label: Hero Button
-- type: text
-  name: text
-  label: Text
-- type: text
-  name: href
-  label: Link
+  fields:
+  - type: text
+    name: text
+    label: Text
+  - type: text
+    name: href
+    label: Link
 - type: textarea
   name: textline
   label: Description
