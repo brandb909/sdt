@@ -4,7 +4,7 @@ tags:
 - Cisco Call accounting
 date: 2018-05-28 08:07:43 +0000
 banner_image: "/uploads/2018/05/28/01_720x405.jpg"
-sub_heading: Call Accounting Software
+sub_heading: Data analysis for Cisco call data records
 slug: ''
 ---
 ## Apogee BI Suite Call Accounting
