@@ -34,5 +34,3 @@ menu:
 SDT Inc.
 
 more data
-
-more data
