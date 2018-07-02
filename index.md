@@ -26,7 +26,7 @@ Founded in 1980, SDT has been dedicated to remain at the forefront of the comput
 
 ## **BIG DATA**
 
-The next decade brought another cataclysmic shift with an avalanche of business data generated from all aspects of everyday corporate activities. Datacentric models began to be developed to obtain an understanding of this disparate data and it was clear that CUCM data and other VoIP data from devices such as SBC controllers were becoming increasingly important components of these models. SDT recognized this shift in emphasis from management reporting to **Data Modeling and Analytics** and has incorporated an arsenal of BI Tools into a core tele-management product based upon a 35–year-track-record and thousands of terabytes of call records successfully recorded and processed.
+The next decade brought another cataclysmic shift with an avalanche of business data generated from all aspects of everyday corporate activities. Datacentric models began to be developed to obtain an understanding of this disparate data and it was clear that CUCM data and other VoIP data from devices such as SBC controllers were becoming increasingly important components of these models. SDT recognized this shift in emphasis from management reporting to **Data Modeling and Analytics** and has incorporated an arsenal of Business Integration Tools into a core tele-management product based upon a 35–year-track-record and thousands of terabytes of call records successfully recorded and processed.
 
 ## WHAT WE OFFER
 
