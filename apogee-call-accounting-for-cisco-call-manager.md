@@ -13,7 +13,10 @@ textline: |2-
    Complete Call Accounting System and Reporting for Windows
 services: []
 show_news: false
-partners: []
+partners:
+- "/uploads/2018/07/02/Cisco-Call-Manager.jpg"
+- "/uploads/2018/07/02/SMDR-billing-Microsoft-SQL-Server.jpg"
+- "/uploads/2018/07/02/cdr-sap-crystal-reports.jpg"
 show_staff: false
 menu:
   navigation:
