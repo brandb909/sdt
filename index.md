@@ -15,7 +15,7 @@ services:
   heading: Desktop, Enterprise, Hybrid and Cloud Call Accounting Software
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Call Accounting Software and Services
-textline: "# Telecom Expertise and Call Data Reporting"
+textline: "Telecom Expertise and Call Data Reporting"
 hero_button:
   text: Learn more
   href: "/apogee-call-accounting-for-cisco-call-manager/"
@@ -47,6 +47,6 @@ Most of our customers have tried the competition and simply need more.  Our flex
 
 ## INTEGRITY AND RELIABILITY
 
-Our competitor's CEOs,  managers of Global Telecom Corporations, directors of Regional Bell Operating Companies, and executives from our customer base for the last 35+ years all echo the sentiment that their business relationships with SDT have been among the most straightforward and fruitful experiences in their corporate memory. 
+Our competitor's CEOs,  managers of Global Telecom Corporations, directors of Regional Bell Operating Companies, and executives from our customer base for the last 35+ years all echo the sentiment that their business relationships with SDT have been among the most straightforward and fruitful experiences in their corporate memory.
 
 On Target. On time.  On budget.

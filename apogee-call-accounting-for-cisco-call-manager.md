@@ -10,7 +10,7 @@ hero_button:
   href: ''
 textline: |2-
 
-  # Complete Call Accounting System and Reporting for Windows
+   Complete Call Accounting System and Reporting for Windows
 services: []
 show_news: false
 partners: []
