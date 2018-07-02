@@ -15,7 +15,7 @@ services:
   heading: Desktop, Enterprise, Hybrid and Cloud Call Accounting Software
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Call Accounting Software and Services
-textline: Telecom Expertise and Call Data Reporting
+textline: 'Telecom Expertise and Call Data Reporting '
 hero_button:
   text: Learn more
   href: "/apogee-call-accounting-for-cisco-call-manager/"
