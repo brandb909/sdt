@@ -6,8 +6,9 @@ tags:
 - Business Intelligence Reporting
 - extract transform load
 - CUCM solutions
-date: 2018-06-27 09:24:37 -0700
-sub_heading: Western States Equipment Co
+date: 2018-06-27 16:24:37 +0000
+sub_heading: Extracting, transforming and loading data for Western States Equipment
+  Co
 banner_image: "/uploads/2018/06/27/SDT-CUCM-ETL-client-western-states-electric.jpg"
 slug: ''
 ---
