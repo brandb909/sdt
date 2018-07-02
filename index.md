@@ -4,9 +4,9 @@ banner_image: "/uploads/2018/06/30/Cisco-Unified-Communications-Manager-data-rec
 layout: landing-page
 heading: Strategic Data and Telecom Inc.
 partners:
-- "/uploads/2018/05/28/y3K3txzt.jpg"
-- "/uploads/2018/05/28/Microsoft-SQL-Server.png"
-- "/uploads/2018/05/28/sap_crystal_reports_2013.jpg"
+- "/uploads/2018/07/02/Cisco-Call-Manager.jpg"
+- "/uploads/2018/07/02/SMDR-billing-Microsoft-SQL-Server.jpg"
+- "/uploads/2018/07/02/cdr-sap-crystal-reports.jpg"
 sub_heading: Call Accounting Software and Services
 textline: 'Telecom Expertise and Call Data Reporting '
 hero_button:
