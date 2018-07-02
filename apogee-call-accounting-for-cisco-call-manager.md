@@ -22,6 +22,6 @@ menu:
   navigation:
     identifier: _apogee_call_accounting_for_cisco_call_manager
     url: "/apogee-call-accounting-for-cisco-call-manager/"
-    weight: 2
+    weight: 3
     title: Apogee
 ---

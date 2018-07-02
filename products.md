@@ -7,7 +7,7 @@ menu:
   navigation:
     identifier: _products
     url: "/products/"
-    weight: 3
+    weight: 4
   footer:
     identifier: _products
     url: "/products/"
