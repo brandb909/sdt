@@ -26,7 +26,6 @@ fields:
 - type: field_group
   name: hero_button
   label: Hero Button
-  fields:
 - type: text
   name: text
   label: Text
