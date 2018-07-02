@@ -25,3 +25,48 @@ menu:
     weight: 3
     title: Apogee
 ---
+Apogee is an affordable, PC-based, fully featured software system for tracking call records from all major legacy PBXs and IP-based systems.   For over 35 years Apogee has been recognized as an industry-standard with the most feature-rich, cost-cutting, and productivity enhancing tools available.  Apogee is now raising the bar with the introduction of new data-centric features to meet the demands of organizations launching into the brave new world of self-service Business Intelligence.
+
+**APOGEE IS AWARD WINNING**
+
+Eye-Catching Report Templates – 200+
+
+Flexible Multi-Site/Publisher Management
+
+Dependable Auto Report Generation/Distribution
+
+Non-Stop Fraud/Exception Monitoring
+
+Simple MAC/Import / Export
+
+Tenacious Traffic Analysis
+
+ 
+
+**APOGEE IS ROBUST**
+
+Cross Site Template Replication
+
+Exec & Manger Reporting Security
+
+Integrates Equipment & Usage
+
+Easy Budgetary Cost Allocation
+
+Global Custom Call Translation
+
+Seamless Historical Reporting
+
+APOGEE TRACKS THE DETAILS
+
+Thorough Cradle-to-Grave Tracking
+
+Convenient Report Drill Down
+
+Meticulous Cisco CDR Recognition
+
+International CityName / Cellular Tracking
+
+Unrivaled Telco quality pricing model
+
+Embellish the Details - add custom metrics
