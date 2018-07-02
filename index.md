@@ -8,7 +8,7 @@ partners:
 - "/uploads/2018/05/28/Microsoft-SQL-Server.png"
 - "/uploads/2018/05/28/sap_crystal_reports_2013.jpg"
 sub_heading: Call Accounting Software and Services
-textline: Telecom Expertise and Call Data Reporting
+textline: 'Telecom Expertise and Call Data Reporting '
 hero_button:
   text: Learn more
   href: "/apogee-call-accounting-for-cisco-call-manager/"
