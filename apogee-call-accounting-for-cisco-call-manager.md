@@ -24,6 +24,26 @@ menu:
 ---
 Apogee is an affordable, PC-based, fully featured software system for tracking call records from all major legacy PBXs and IP-based systems.   For over 35 years Apogee has been recognized as an industry-standard with the most feature-rich, cost-cutting, and productivity enhancing tools available.  Apogee is now raising the bar with the introduction of new data-centric features to meet the demands of organizations launching into the brave new world of self-service Business Intelligence.
 
+## APOGEE VISUALIZATION
+
+Apogee BI Suite provides a unique View into Cisco CDR and generates over 100 parameters per CUCM record.  Apogee merges, sorts, filters, and then adds proprietary pattern recognition to make it easy to obtain stunning Visualizations.
+
+## APOGEE MODELING
+
+In this brave new world of self-service BI the Apogee Suite provides a framework to build your own custom Data Store – simplified with logical names and hierarchies.  Incorporate core metrics and custom KPIs for your needs.
+
+## SQL INTEGRATION SERVICES
+
+It is safe to say that the **SSIS** component of BI is the heavy lifting when incorporating Cisco CDR as a data store component.  No other system can do **ETL** better than Apogee for Cisco.  Call us and we will explain why!
+
+## SQL ANALYSIS SERVICES
+
+You probably have your IT team involved in business intelligence if **SSAS** is in the mix.  Are they Cisco CDR experts?   How much time will be saved by utilizing well-established schema to develop your dimensions and cubes?
+
+## SQL REPORTING SERVICES
+
+Traffic analysis, workflow loading, call handling efficiency, on-net and off-net optimization, and myriad telecom metrics have replicated in our reporting DNA  for over 3 decades.  Apogee can jump start your **SSRS** project.
+
 **APOGEE IS AWARD WINNING**
 
 Eye-Catching Report Templates – 200+
@@ -37,8 +57,6 @@ Non-Stop Fraud/Exception Monitoring
 Simple MAC/Import / Export
 
 Tenacious Traffic Analysis
-
- 
 
 **APOGEE IS ROBUST**
 
