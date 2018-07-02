@@ -7,13 +7,6 @@ partners:
 - "/uploads/2018/05/28/y3K3txzt.jpg"
 - "/uploads/2018/05/28/Microsoft-SQL-Server.png"
 - "/uploads/2018/05/28/sap_crystal_reports_2013.jpg"
-services:
-- description: Recursive Pattern Recognition Analysis of All Columns
-  heading: 'Cisco Call Manager CDR Analysis '
-  icon: "/uploads/2017/11/13/health.png"
-- description: Editions of Apogee Call Accounting Software
-  heading: Desktop, Enterprise, Hybrid and Cloud Call Accounting Software
-  icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Call Accounting Software and Services
 textline: Telecom Expertise and Call Data Reporting
 hero_button:
