@@ -2,7 +2,7 @@
 title: SDT - Strategic Data and Telecom
 banner_image: "/uploads/2018/06/30/Cisco-Unified-Communications-Manager-data-record-reporting-1.jpg"
 layout: landing-page
-heading: Strategic Data and Telecom
+heading: Strategic Data and Telecom Inc.
 partners:
 - "/uploads/2018/05/28/y3K3txzt.jpg"
 - "/uploads/2018/05/28/Microsoft-SQL-Server.png"
