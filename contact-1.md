@@ -12,6 +12,10 @@ textline: "**Feel free to give us a call!**"
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    weight: 1
+    title: Contact2
 ---
 ## Hours of Operation
 
