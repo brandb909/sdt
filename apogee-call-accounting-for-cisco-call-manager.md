@@ -29,7 +29,7 @@ Apogee is an affordable, PC-based, fully featured software system for tracking c
 
 ## APOGEE VISUALIZATION
 
-Apogee BI Suite provides a unique View into Cisco CDR and generates over 100 parameters per CUCM record.  Apogee merges, sorts, filters, and then adds proprietary pattern recognition to make it easy to obtain stunning Visualizations.
+Apogee Business Intelligence Suite provides a unique View into Cisco CDR and generates over 100 parameters per CUCM record.  Apogee merges, sorts, filters, and then adds proprietary pattern recognition to make it easy to obtain stunning Visualizations.
 
 ## APOGEE MODELING
 
