@@ -12,7 +12,6 @@ textline: "**Feel free to give us a call!**"
 show_news: false
 partners: []
 show_staff: false
-published: false
 ---
 ## Hours of Operation
 
