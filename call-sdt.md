@@ -12,6 +12,10 @@ textline: Give us a call!
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    weight: 1
+    title: Contact
 published: false
 ---
 ## Hours of Operation
