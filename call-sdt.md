@@ -1,6 +1,6 @@
 ---
 title: Call SDT
-layout: home
+layout: landing-page
 date: 2018-07-02 19:31:21 -0700
 heading: ''
 sub_heading: ''
@@ -14,8 +14,10 @@ partners: []
 show_staff: false
 menu:
   navigation:
-    weight: 1
-    title: Contact
+    identifier: _call-sdt
+    url: "/"
+    weight: 7
+    title: Call SDT
 ---
 ## Hours of Operation
 
@@ -28,7 +30,7 @@ Strategic Data and Telecom is available:
 ## Contact Information
 
 Strategic Data and Telecom, Inc.  
-  
+
 121 S. Webster Street  
-  
+
 Naperville, IL, US
