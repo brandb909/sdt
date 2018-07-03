@@ -1,7 +1,7 @@
 ---
 title: Call SDT
 layout: landing-page
-date: 2018-07-02 19:31:21 -0700
+date: 2018-07-03 02:31:21 +0000
 heading: ''
 sub_heading: ''
 banner_image: "/uploads/2018/06/30/Cisco-Unified-Communications-Manager-data-record-reporting-1.jpg"
@@ -17,7 +17,7 @@ menu:
     identifier: _call-sdt
     url: "/"
     weight: 7
-    title: Call SDT
+published: false
 ---
 ## Hours of Operation
 
