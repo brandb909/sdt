@@ -20,9 +20,17 @@ menu:
     url: "/"
     weight: 1
 ---
-Strategic Data and Telecom, Inc. (SDT, Inc.) develops and markets innovative telemanagement and call accounting solutions designed to deliver critical telecom information that is essential for the effective management of modern business operations. Our Cutting-edge Call Accounting Products have been recognized and adapted by regional RBOCs, equipment manufacturers, and are even licensed by a variety of well-recognized telemanagement competitors.  Our re-sellers and channel partners have implemented SDT solutions for a large variety of Fortune 1000 customers.
+# SDT Inc.
 
-Founded in 1980, SDT has been dedicated to remain at the forefront of the computer-telephony revolution and offer reliable, cost-effective, innovative, management reporting solutions that can be tailored to the demands of an ever-changing marketplace. SDT was an active participant in early CTI efforts to incorporate CDR (call detail records) information from a variety of sources to generate vital call processing information. Our Cisco Call Manager Reporting Solution  was introduced in early 2000 to fill the gap between legacy PBX SMDR reporting and the more demanding requirements of the CUCM. Early implementers of CUCM needed a tracking system that could span the divide between the old and new paradigms.
+Strategic Data and Telecom, Inc. (SDT, Inc.) develops and markets innovative telecommunication record management and call accounting solutions designed to deliver critical telecom information that is essential for the effective business operations. Founded in 1980, SDT has been dedicated to remain at the forefront of the computer-telephony revolution and offer reliable, cost-effective, innovative, management reporting solutions that can be tailored to the demands of an ever-changing marketplace. 
+
+# Call Accounting Products
+
+Our cutting edge call accounting products have been recognized and adapted by regional RBOCs, equipment manufacturers, and are even licensed by a variety of our well-recognized telecommunication management competitors.  Our re-sellers and channel partners have implemented SDT solutions for a large variety of Fortune 1000 customers.
+
+# Cisco Unified Communication Manager Reporting Solution
+
+SDT was an active participant in early CTI efforts to incorporate CDR (call detail records) information from a variety of sources to generate vital call processing information. Our Cisco Unified Communication Manager Reporting Solution  was introduced in early 2000 to fill the gap between legacy PBX SMDR reporting and the more demanding requirements of the Cisco Unified Communications Manager. Early adopters of CUCM needed a tracking system that could span the divide between the old and new paradigms.
 
 ## **BIG DATA**
 
@@ -30,9 +38,9 @@ The next decade brought another cataclysmic shift with an avalanche of business 
 
 ## WHAT WE OFFER
 
-OVER THREE DECADES OF TELEMANAGEMENT EXPERIENCE
+**OVER THREE DECADES OF TELECOMMUNICATION  EXPERIENCE**
 
-Innovative approaches to Telemanagement Reporting have replicated in our DNA for over 30 years. Our core expertise in software, hardware, and network design have enabled SDT to tackle demanding challenges for our Fortune 1000 clients. As our cutting-edge features mature they are incorporated into our off the shelf Award Winning Apogee Product Suite.
+Innovative approaches to telecom management reporting have replicated in our DNA for over 30 years. Our core expertise in software, hardware, and network design have enabled SDT to tackle demanding challenges for our Fortune 1000 clients. As our cutting-edge features mature they are incorporated into our off the shelf Award Winning Apogee Product Suite.
 
 ## SATISFACTION
 
