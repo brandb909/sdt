@@ -6,8 +6,8 @@ heading: Software Solution for CUCM Reporting
 sub_heading: CDR Analytics and Data Services Integration
 banner_image: "/uploads/2018/06/30/Cisco-Unified-Communications-Manager-data-record-reporting-1.jpg"
 hero_button:
-  text: ''
-  href: ''
+  text: Editions of Apogee
+  href: "/products/"
 textline: |2-
 
    Complete Call Accounting System and Reporting for Windows
