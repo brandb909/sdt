@@ -14,8 +14,8 @@ partners: []
 show_staff: false
 menu:
   navigation:
-    weight: 1
-    title: Contact2
+    weight: 2
+    title: Contact
 ---
 ## Hours of Operation
 
