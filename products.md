@@ -11,6 +11,6 @@ menu:
   footer:
     identifier: _products
     url: "/products/"
-    weight: 1
+    weight: 2
 ---
 Software Solutions by SDT

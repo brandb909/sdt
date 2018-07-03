@@ -19,6 +19,9 @@ partners:
 - "/uploads/2018/07/02/cdr-sap-crystal-reports.jpg"
 show_staff: false
 menu:
+  footer:
+    weight: 5
+    title: Apogee Call Accounting Software
   navigation:
     identifier: _apogee_call_accounting_for_cisco_call_manager
     url: "/apogee-call-accounting-for-cisco-call-manager/"

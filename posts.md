@@ -12,6 +12,6 @@ menu:
   footer:
     identifier: _posts
     url: "/posts/"
-    weight: 3
+    weight: 4
 published: false
 ---

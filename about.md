@@ -13,7 +13,7 @@ menu:
   footer:
     identifier: _about
     url: "/about/"
-    weight: 4
+    weight: 5
   navigation:
     identifier: _about
     url: "/about/"
