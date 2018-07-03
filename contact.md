@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/06/30/Cisco-Unified-Communications-Manager-data-record-reporting-1.jpg"
+banner_image: "/uploads/2018/07/03/SDT-telecom-cdr-specialist.png"
 heading: Contact SDT
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
