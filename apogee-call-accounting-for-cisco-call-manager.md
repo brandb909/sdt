@@ -4,7 +4,7 @@ layout: landing-page
 date: 2018-05-29 10:19:09 +0000
 heading: Software Solution for CUCM Reporting
 sub_heading: CDR Analytics and Data Services Integration
-banner_image: "/uploads/2018/07/03/apogee-cucm-reporting-software-for-windows.png"
+banner_image: "/uploads/2018/07/03/apogee-cucm-reporting-software-for-windows-1.png"
 hero_button:
   text: Editions of Apogee
   href: "/products/"
