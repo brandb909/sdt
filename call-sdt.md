@@ -16,7 +16,7 @@ menu:
   navigation:
     identifier: _call-sdt
     url: "/"
-    weight: 7
+    weight: 8
 published: false
 ---
 ## Hours of Operation
