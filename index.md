@@ -8,7 +8,7 @@ partners:
 - "/uploads/2018/07/02/SMDR-billing-Microsoft-SQL-Server.jpg"
 - "/uploads/2018/07/02/cdr-sap-crystal-reports.jpg"
 sub_heading: Call Accounting Software and Services
-textline: "# Telecom Expertise and Call Data Reporting Solutions"
+textline: "Telecom Expertise and Call Data Reporting Solutions"
 hero_button:
   text: CUCM Reporting
   href: "/apogee-call-accounting-for-cisco-call-manager/"
