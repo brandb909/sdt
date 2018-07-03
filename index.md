@@ -24,7 +24,7 @@ Strategic Data and Telecom, Inc. (SDT, Inc.) develops and markets innovative tel
 
 Founded in 1980, SDT has been dedicated to remain at the forefront of the computer-telephony revolution and offer reliable, cost-effective, innovative, management reporting solutions that can be tailored to the demands of an ever-changing marketplace. SDT was an active participant in early CTI efforts to incorporate CDR information from a variety of sources to generate vital call processing information. Our Cisco Call Manager Reporting Solution  was introduced in early 2000 to fill the gap between legacy PBX SMDR reporting and the more demanding requirements of the CUCM. Early implementers of CUCM needed a tracking system that could span the divide between the old and new paradigms.
 
-## **BIG DATA** 
+## **BIG DATA**
 
 The next decade brought another cataclysmic shift with an avalanche of business data generated from all aspects of everyday corporate activities. Datacentric models began to be developed to obtain an understanding of this disparate data and it was clear that CUCM data and other VoIP data from devices such as SBC controllers were becoming increasingly important components of these models. SDT recognized this shift in emphasis from management reporting to **Data Modeling and Analytics** and has incorporated an arsenal of Business Integration Tools into a core tele-management product based upon a 35–year-track-record and thousands of terabytes of call records successfully recorded and processed.
 
@@ -32,7 +32,7 @@ The next decade brought another cataclysmic shift with an avalanche of business 
 
 OVER THREE DECADES OF TELEMANAGEMENT EXPERIENCE
 
-Innovative approaches to Telemanagement Reporting have replicated in our DNA for over 30 years. Our core expertise in software, hardware, and network design have enabled SDT to tackle demanding challenges for our Fortune 1000 clients. As our cutting-edge features mature they are incorporated into our off-the-shelf Award Winning Apogee Product Suite.
+Innovative approaches to Telemanagement Reporting have replicated in our DNA for over 30 years. Our core expertise in software, hardware, and network design have enabled SDT to tackle demanding challenges for our Fortune 1000 clients. As our cutting-edge features mature they are incorporated into our off the shelf Award Winning Apogee Product Suite.
 
 ## SATISFACTION
 
