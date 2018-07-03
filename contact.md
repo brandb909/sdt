@@ -5,6 +5,10 @@ banner_image: https://maps.googleapis.com/maps/api/staticmap?center=487+universi
 heading: Contact Belkirk College
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
+menu:
+  navigation:
+    identifier: _contact
+    weight: 7
 published: false
 ---
 ## Hours of Operation
