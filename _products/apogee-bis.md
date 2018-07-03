@@ -3,7 +3,7 @@ title: Apogee Business Intelligence Suite
 tags:
 - Cisco Call accounting
 date: 2018-05-28 08:07:43 +0000
-banner_image: "/uploads/2018/05/28/01_720x405.jpg"
+banner_image: "/uploads/2018/07/03/business-intelligence-etl-smdr.jpg"
 sub_heading: Data analysis for Cisco call data records
 slug: ''
 ---
