@@ -16,7 +16,6 @@ menu:
   navigation:
     weight: 1
     title: Contact
-published: false
 ---
 ## Hours of Operation
 
