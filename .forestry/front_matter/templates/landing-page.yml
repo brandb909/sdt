@@ -58,5 +58,6 @@ fields:
   hidden: true
   default: home
 pages:
+- call-sdt.md
 - apogee-call-accounting-for-cisco-call-manager.md
 - index.md
